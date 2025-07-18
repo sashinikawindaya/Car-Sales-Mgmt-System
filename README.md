@@ -1,5 +1,4 @@
 # Car Sales Mnagment System
-
 This project is a comprehensive Sales Management System developed using **C#** as part of the Object Oriented Programming module at NSBM Green University. The system is designed to automate and streamline the sales operations of **Starlight Auto Mall**, focusing on buying and selling pre-owned vehicles.
 
 ## 🔍 Features
