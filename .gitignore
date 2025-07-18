@@ -8,20 +8,20 @@
 ## Get latest from https://github.com/github/gitignore/blob/main/Dotnet.gitignore
 
 # Build results
-[Dd]ebug/
-[Dd]ebugPublic/
-[Rr]elease/
-[Rr]eleases/
-x64/
-x86/
-[Ww][Ii][Nn]32/
-[Aa][Rr][Mm]/
-[Aa][Rr][Mm]64/
-bld/
-[Bb]in/
-[Oo]bj/
-[Ll]og/
-[Ll]ogs/
+WindowsFormsApp24/[Dd]ebug/
+WindowsFormsApp24/[Dd]ebugPublic/
+WindowsFormsApp24/[Rr]elease/
+WindowsFormsApp24/[Rr]eleases/
+WindowsFormsApp24/x64/
+WindowsFormsApp24/x86/
+WindowsFormsApp24/[Ww][Ii][Nn]32/
+WindowsFormsApp24/[Aa][Rr][Mm]/
+WindowsFormsApp24/[Aa][Rr][Mm]64/
+WindowsFormsApp24/bld/
+WindowsFormsApp24/[Bb]in/
+WindowsFormsApp24/[Oo]bj/
+WindowsFormsApp24/[Ll]og/
+WindowsFormsApp24/[Ll]ogs/
 
 # .NET Core
 project.lock.json
